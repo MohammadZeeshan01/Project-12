@@ -10,7 +10,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-green)
 
 
-<!-- ## Project 12 [Live Link](https://live-proj-12.netlify.app) -->
+## Project 12 [Live Link](https://zeeshan-html-css-project-12.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to create complex footer section.
